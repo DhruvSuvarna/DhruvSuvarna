@@ -1,6 +1,6 @@
 ## Hey there, Thanks for visiting my profile... 👋
 
-<img src="propic.jpg">
+<!--<img src="propic.jpg">-->
 <!--
 Here are some ideas to get you started:
 
