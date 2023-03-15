@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Dhruv Suvarna</h1>
 <h3 align="center">A passionate programmer and developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D22AQEXVzLerO619w/feedshare-shrink_800/0/1667894256452?e=2147483647&v=beta&t=hpRFPMDL-ZKnS_rAkw163Sqazvn8yaTlXupmkIJpkYs">
