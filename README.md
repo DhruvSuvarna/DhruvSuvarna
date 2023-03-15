@@ -3,11 +3,15 @@
 <h3 align="center">A passionate programmer and developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
+<br><br><br><br>
+
 - 🌱 I’m currently learning **React, Django**
 
 - 💬 Ask me about **Python, C, Java**
 
 - 📫 How to reach me **dhruvsuvarna2019@gmail.com**
+
+<br><br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
