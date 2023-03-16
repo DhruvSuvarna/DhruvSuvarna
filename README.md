@@ -26,8 +26,19 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvsuvarna&show_icons=true&locale=en&layout=compact" alt="dhruvsuvarna" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DhruvSuvarna&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSuvarna&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+![](https://github-readme-streak-stats.herokuapp.com/?user=DhruvSuvarna&theme=react&hide_border=false)<br/>
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DhruvSuvarna&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DhruvSuvarna&show_icons=true&locale=en&layout=compact" alt="dhruvsuvarna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvsuvarna&show_icons=true&locale=en" alt="dhruvsuvarna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsuvarna&" alt="dhruvsuvarna" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsuvarna&" alt="dhruvsuvarna" /></p>-->
