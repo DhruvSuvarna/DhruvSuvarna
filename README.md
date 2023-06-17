@@ -27,8 +27,8 @@
 <br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DhruvSuvarna&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSuvarna&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dhruvsuvarna)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsuvarna&layout=compact)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DhruvSuvarna&theme=react&hide_border=false)<br/>
 
