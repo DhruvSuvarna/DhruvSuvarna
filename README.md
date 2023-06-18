@@ -28,7 +28,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dhruvsuvarna)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsuvarna&layout=compact)
+![]()
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DhruvSuvarna&theme=react&hide_border=false)<br/>
 
