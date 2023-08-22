@@ -5,9 +5,9 @@
 
 <br><br><br><br>
 
-- 🌱 I’m currently learning **Node.js, MongoDB**
+- 🌱 I’m currently learning **Motoko**
 
-- 💬 Ask me about **JavaScript, Python, Java**
+- 💬 Ask me about **JavaScript, NodeJS, MongoDB**
 
 - 📫 How to reach me **dhruvsuvarna2019@gmail.com**
 
