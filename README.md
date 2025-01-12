@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **ReactJS, NodeJS, MongoDB**
+- 💬 Ask me about **Python, JavaScript, ReactJS, NodeJS, MongoDB**
 
 - 📫 How to reach me **dhruvsuvarna2019@gmail.com**
 
